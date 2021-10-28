@@ -1,4 +1,6 @@
-# MyFirstApp
+# My First Personal Angular App
+
+The purpose of creating this app is to learn and get more comfortable creating, and architecting, Angular applications since the actual work I do as a Software Engineer is creating proprietary fintech business applications. I am following along with [Angular - The Complete Guide (2021)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
@@ -25,3 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
